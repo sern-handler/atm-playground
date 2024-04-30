@@ -5,3 +5,7 @@ sern Automata testing playground (ignore repo)
 
 adsjfgkl
 j
+
+## random pr
+
+it adds cool stuff
